@@ -1,0 +1,4 @@
+google_api_python_client==2.94.0
+google_auth_oauthlib==1.0.0
+protobuf==4.23.4
+questionary==1.10.0
